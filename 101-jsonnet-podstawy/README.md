@@ -11,15 +11,12 @@
 
 2. Zapraszamy na pizzę! Plik `menu.jsonnet` wykorzystuje import bibliotek (`pizza.libsonnet`) dla ułatwienia tworzenia nowych obiektów.
 
-    Zadanie: Dodaj kilka "generycznych wersji pizzy", korzystając z pętli.
+    Zadanie 1: Dodaj kilka "generycznych wersji pizzy", korzystając z pętli.
 
-    Zadanie: Wykorzystaj pizzę margheritę i stwórz funkcję (fabrykę) dla innych typów pizzy.
+    Zadanie 2: Wykorzystaj pizzę margheritę i stwórz funkcję (fabrykę) dla innych typów pizzy.
     
-    Zadanie: Wypisz pary ("nazwa pizzy", "cena pizzy") dla całego stworzonego przez siebie menu. 
+    Zadanie 3: Wypisz zestawy danych ("nazwa pizzy", "cena pizzy") dla całego stworzonego przez siebie menu. 
 
-    Zadanie: Zapisz stworzone menu w formie pliku YAML.
+    Zadanie 4: Zapisz stworzone menu w formie pliku YAML.
       * **Uwaga:** `jsonnet -S` może się przydać. Co robi?
       * **Uwaga 2:** W jednym pliku YAML może być wiele dokumentów (obiektów)!
-
-    Zadanie: Zapisz stworzone menu w formie pliku INI.
-    * Sprawdź funkcję: `std.manifestIni`

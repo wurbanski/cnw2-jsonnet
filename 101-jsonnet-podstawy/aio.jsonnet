@@ -1,5 +1,7 @@
 // Komentarz w linii
-/* Komentarz blokowy */
+/* 
+  Komentarz blokowy 
+*/
 
 // Zmienna lokalna (niepubliczna)
 local greeting = "hello world!";

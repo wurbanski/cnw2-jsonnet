@@ -1,0 +1,12 @@
+apiVersion: qbec.io/v1alpha1
+kind: App
+metadata:
+  name: cnw
+spec:
+  libPaths:
+    - vendor
+  environments:
+    default:
+      defaultNamespace: "default"
+      server: https://127.0.0.1:6443
+  vars: {}

@@ -12,7 +12,7 @@
     jb install https://github.com/bitnami-labs/kube-libsonnet.git
     ```
 
-    Uwaga: My mamy już zainicjowane środowisko, wystarczy zawołać `jb install`!
+    Uwaga: My mamy już zainicjowane środowisko, wystarczy zawołać `jb install` i pobrać pakiety!
 
 3. Aktualizacja pakietów:
     ```
